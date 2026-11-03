@@ -1,4 +1,4 @@
-# CENG 225 - Data Structures and Algorithms 🌲⚡
+# CENG 225 - Data Structures and Algorithms
 
 This repository contains the source code for in-class lecture exercises, laboratory sessions, and homework assignments prepared for the **CENG 225: Data Structures and Algorithms** course.
 
